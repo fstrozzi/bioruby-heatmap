@@ -1,12 +1,7 @@
-# Please require your code below, respecting the naming conventions in the
-# bioruby directory tree.
-#
-# For example, say you have a plugin named bio-plugin, the only uncommented
-# line in this file would be 
-#
-#   require 'bio/bio-plugin/plugin'
-#
-# In this file only require other files. Avoid other source code.
+require 'java'
+require File.expand_path(File.join(( File.dirname File.dirname(__FILE__) ),"jars/jheatchart-0.6.jar"))
 
 require 'bio-heatmap/heatmap.rb'
+
+
 
