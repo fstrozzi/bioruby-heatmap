@@ -1,9 +1,6 @@
 bio-heatmap
 ===========
-{<img
-src="https://secure.travis-ci.org/fstrozzi/bioruby-heatmap.png"
-/>}[http://travis-ci.org/#!/fstrozzi/bioruby-heatmap]
-
+[![Build Status](https://secure.travis-ci.org/fstrozzi/bioruby-heatmap.png?branch=master)](http://travis-ci.or    g/fstrozzi/bioruby-heatmap)
 A JRuby BioGem built around the [JHeatMap jar](http://www.javaheatmap.com/)
 
 Note: this software is under active development!
